@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import styled, { css } from "styled-components";
-import { Container } from 'react-dom';
 
 interface ContainerProps {
     isPressed: boolean;

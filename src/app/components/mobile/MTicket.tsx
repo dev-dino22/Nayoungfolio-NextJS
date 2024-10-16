@@ -148,7 +148,7 @@ const ImgWrap = styled.div`
         position: relative;
         right: 92px;
         top: 64px;
-        transform: rotate(-90deg) scale(0.7);
+        transform: rotate(-90deg) scale(1);
     }
 `;
 
